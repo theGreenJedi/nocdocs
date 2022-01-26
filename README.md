@@ -1,2 +1,3 @@
 # nocdocs
 nocdocs
+print "TEST"
